@@ -1,0 +1,18 @@
+{
+  "name": "cordova-phone-status",
+  "version": "1.1.5",
+  "description": "",
+  "cordova": {
+    "id": "cordova-phone-status",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
